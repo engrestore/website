@@ -1,0 +1,24 @@
+body {
+	background-color: AntiqueWhite;
+	
+}
+
+object {
+	width: 100%;
+	aspect-ratio: 4/3;
+	text-align: center;
+
+}
+
+p {
+	font-size: 110%;
+
+}
+
+footer {
+	display: block;
+	text-align: center;
+	padding: 5px;
+	font-size: 85%;
+
+}
